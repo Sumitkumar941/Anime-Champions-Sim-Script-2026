@@ -1,0 +1,7 @@
+keyboard
+colorama
+mouse
+scipy
+tqdm
+numpy
+requests
